@@ -2,6 +2,10 @@
 2020 01 semester Computer Network HW
 How to run <br>
 ```
+make
+```
+First, run makefile.
+```
 ./server 8080
 ```
 Run the server with ./server 8080 in cmd.<br>
