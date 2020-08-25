@@ -1,5 +1,4 @@
 # Network-Simple-web-server
-2020 01 semester Computer Network HW
 How to run <br>
 ```
 make
